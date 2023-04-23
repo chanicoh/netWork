@@ -8,7 +8,7 @@ BUCKET = 1024
 HTTP_KEY_WORDS = ["GET", "HTTP/1.1"]
 HTTP_VERSION = 'HTTP/1.1'
 CODE_OK = "HTTP/1.0 200 OK\r\n"
-#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
+#
 # 127.0.0.1:8153/www.youtube.com
 
 def create_packet(ip_addr, dns_type):
